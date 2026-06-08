@@ -1,0 +1,4 @@
+name|student_id|test1|test2|test3|average|grade
+Alice Johnson|s1001|95.00|88.00|92.00|91.67|A
+Bob Smith|s1002|78.00|82.00|75.00|78.33|C
+Jamie Smith|s1003|65.00|98.00|75.00|79.33|C
